@@ -1,18 +1,13 @@
-# A2_Group_7
+# Pokemon Simulator
 
-Template Repository for use in Assignment 2 - REPLACE
+Generate a team and simulate a battle!
 
-## Group Members
+![alt text](https://github.com/ravig31/pokemon-simulator/blob/master/pokemon.pngraw=true)
 
-- Matthew Ch'ng (mchn0006@student.monash.edu)
-- Adrian Louis (alou0013@student.monash.edu)
+## Our Team
 
-## Implement the code!
+- Ravindu Gamage
+- Eric Theov
+- Matthew Ch'ng 
+- Adrian Louis 
 
-- [x] Create the repository
-- [x] Task 1
-- [x] Task 2
-- [x] Task 3
-- [x] Task 4
-- [ ] Task 5
-- [ ] Task 6
