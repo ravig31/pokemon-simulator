@@ -1,0 +1,2 @@
+team looses 
+        #     raise StopIteration
